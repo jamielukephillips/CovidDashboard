@@ -1,9 +1,8 @@
-# diy-covid19dash
+# Covid-19 Dashboard
 
+A dashboard representing Covid-19 data in Scotland
 
-A Covid-19 Dashboarding Tutorial based on Public Health England data using iPywidgets, Voila and Binders
+Click here to launch this repository as a Binder: [![Binder](https://mybinder.org/v2/gh/jamielukephillips/CovidDashboard/main)
 
-Click here to launch this repository as a Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fsmeraldi/diy-covid19dash/main)
-
-Click [here](https://mybinder.org/v2/gh/fsmeraldi/diy-covid19dash/main?urlpath=%2Fvoila%2Frender%2FDashboard.ipynb) to render the dashboard template (```Dasboard.ipynb```) with Voila; this is where you will assemble your dashboard after going through the other notebooks.
+Click [here](https://mybinder.org/v2/gh/jamielukephillips/CovidDashboard/main?urlpath=voila%2Frender%2FDashboardScotlandJamiePhillips%20(1).ipynb) to render the dashboard template (```Dasboard.ipynb```) with Voila; this is where you will assemble your dashboard after going through the other notebooks.
 
